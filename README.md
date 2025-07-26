@@ -12,7 +12,8 @@ This is a simple machine learning project I built using Python and Streamlit. It
 - See results in a clean, scrollable table
 
 ---
-output.png
+![Output](output.png)
+
 
 ## 📂 How to Use
 
